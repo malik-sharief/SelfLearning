@@ -1,4 +1,4 @@
 # SelfLearning
 This if for my understanding of git
 <br>
-Author- Malik Sharief
+Author- Malik Sharief Mohammad
